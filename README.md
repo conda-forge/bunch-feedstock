@@ -14,9 +14,7 @@ Summary: A dot-accessible dictionary (a la JavaScript objects)
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bunch-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bunch-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/bunch-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bunch-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bunch-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bunch-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/bunch-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bunch-feedstock)
 
 Current release info
 ====================
